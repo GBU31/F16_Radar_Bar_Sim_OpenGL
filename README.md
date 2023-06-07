@@ -1,6 +1,7 @@
 # Environment Setup
 To use this software, you must have Tkinter installed and OpenGL in the root dir.
 ```git clone https://github.com/glfw/glfw.git ```
+
 ``` python3 -m pip install -r requirements.txt ```
 
 # Run
