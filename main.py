@@ -6,10 +6,10 @@ def one_B():
     os.system('g++ one_bar.cpp -o one_b -lglut -lGL -lGLU && ./one_b')
 
 def two_B():
-    os.system('g++ two_bars.cpp -o two_b -lglut -lGL -lGLU && ./two_b')
+    os.system('g++ two_bar.cpp -o two_b -lglut -lGL -lGLU && ./two_b')
 
 def four_B():
-    os.system('g++ four_bars.cpp -o four_b -lglut -lGL -lGLU -lGLEW && ./four_b')
+    os.system('g++ four_bar.cpp -o four_b -lglut -lGL -lGLU -lGLEW && ./four_b')
 
 
 window = Tk()
