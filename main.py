@@ -14,7 +14,7 @@ def four_B():
 
 window = Tk()
 window.geometry('600x600')
-window.title('F-16 radar bars sim')
+window.title('F-16 Radar Bar Sim')
 image = Image.open("FCR+(Fire+Control+Radar)+Display.jpg")  
 image = image.resize((400, 400))  
 
